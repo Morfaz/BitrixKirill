@@ -24,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="task/1-Интегрировать_верстку_сайта" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -118,7 +118,7 @@
       <workItem from="1654599068000" duration="6314000" />
       <workItem from="1654607837020" duration="187000" />
       <workItem from="1654608066439" duration="2437000" />
-      <workItem from="1654610900725" duration="344000" />
+      <workItem from="1654610900725" duration="731000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1654453576394</created>
@@ -186,7 +186,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="task/1_Интегрировать_вертску_шапки" />
+                        <option value="task/1-Интегрировать_верстку_сайта" />
                       </list>
                     </value>
                   </entry>
