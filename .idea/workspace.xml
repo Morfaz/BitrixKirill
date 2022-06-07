@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95d4de14-533f-4545-85cd-5180c71f6708" name="Changes" comment="Закончил 1 задание" />
+    <list default="true" id="95d4de14-533f-4545-85cd-5180c71f6708" name="Changes" comment="init">
+      <change beforePath="$PROJECT_DIR$/www/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="task/1-Интегрировать_верстку_сайта" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,8 +82,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\bootstrap_exapmle_product\css" />
       <recent name="C:\Users\Morfaz\Documents\bitrix" />
+      <recent name="C:\Users\Morfaz\Documents\bitrix\www" />
+      <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\bootstrap_exapmle_product\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\bootstraptemp\images" />
