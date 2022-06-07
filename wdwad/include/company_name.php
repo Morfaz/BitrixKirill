@@ -1,1 +1,0 @@
-<img src="/wdwadinclude/bx_default_logo.gif" alt="" />
