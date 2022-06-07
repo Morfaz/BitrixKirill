@@ -1,0 +1,11 @@
+{
+    "extra": {
+        "installer-paths": {
+            "bitrix/modules/{$name}/": ["type:bitrix-module"]
+        }
+    },
+    "require": {
+        "andreyryabin/sprint.options": "dev-master",
+        "andreyryabin/sprint.options": "2.0.2"
+    }
+}

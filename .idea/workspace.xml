@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95d4de14-533f-4545-85cd-5180c71f6708" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/bitrix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/.access.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/.bottom.menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/.left.menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/.section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/.top.menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/company/.left.menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/company/history.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/company/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/company/management.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/company/mission.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/company/vacancies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/composer.phar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/contacts/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/general/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/blue_progress.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/bottom_fill.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/button_create_de.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/button_create_en.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/button_create_ru.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/button_restore_de.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/button_restore_en.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/button_restore_ru.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/corner_bottom_left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/corner_bottom_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/corner_top_left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/corner_top_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/dump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/dump_ru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/logo_installer_de.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/logo_installer_en.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/logo_installer_ru.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/red_progress.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/images/top_line_fill.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/include/bx_default_logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/include/company_name.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/include/copyright.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/include/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/include/motto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/include/news.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/include/random.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/kontakty/.section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/kontakty/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/admin/includes/interface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/admin/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/admin/sprint_options.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/description.ru" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/include.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/install/admin/sprint_options.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/install/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/install/php_interface/sprint.options.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/install/version.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/lib/builder/builder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/lib/builder/option.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/lib/builder/page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/lib/builder/tab.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/lib/exception/optionnotfoundexception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/lib/exception/pagenotfoundexception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/lib/locale.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/lib/module.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/locale/ru.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/options.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/bitrix/modules/sprint.options/updater.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/init.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/admin/includes/interface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/admin/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/admin/sprint_options.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/description.ru" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/include.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/install/admin/sprint_options.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/install/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/install/php_interface/sprint.options.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/install/version.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/builder/builder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/builder/option.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/builder/page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/builder/tab.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/exception/optionnotfoundexception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/exception/pagenotfoundexception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/locale.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/module.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/locale/ru.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/options.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/updater.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/php_interface/sprint.options.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/.styles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/components/bitrix/menu/header-menu/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/css/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/template_styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/login/.left.menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/login/.section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/login/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lp/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/nachat-rabotat/.section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/nachat-rabotat/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/news/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/products/.left.menu_ext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/products/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/raschet-zarplaty/.section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/raschet-zarplaty/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/search/.left.menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/search/.section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/search/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/search/map.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/services/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/site_pn/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/site_ss/.access.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/tmp/installer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/urlrewrite.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/InstalledVersions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/.github/workflows/continuous-integration.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/.github/workflows/lint.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/.github/workflows/phpstan.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/phpstan.neon.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/AglInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/AimeosInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/AnnotateCmsInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/AsgardInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/AttogramInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/BaseInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/BitrixInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/BonefishInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/CakePHPInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/ChefInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/CiviCrmInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/ClanCatsFrameworkInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/CockpitInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/CodeIgniterInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/Concrete5Installer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/CraftInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/CroogoInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/DecibelInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/DframeInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/DokuWikiInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/DolibarrInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/DrupalInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/ElggInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/EliasisInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/ExpressionEngineInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/EzPlatformInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/FuelInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/FuelphpInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/GravInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/HuradInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/ImageCMSInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/Installer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/ItopInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/JoomlaInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/KanboardInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/KirbyInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/KnownInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/KodiCMSInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/KohanaInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/LanManagementSystemInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/LaravelInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/LavaLiteInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/LithiumInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/MODULEWorkInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/MODXEvoInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/MagentoInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/MajimaInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/MakoInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/MantisBTInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/MauticInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/MayaInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/MediaWikiInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/MiaoxingInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/MicroweberInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/ModxInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/MoodleInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/OctoberInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/OntoWikiInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/OsclassInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/OxidInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/PPIInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/PantheonInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/PhiftyInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/PhpBBInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/PimcoreInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/PiwikInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/PlentymarketsInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/Plugin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/PortoInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/PrestashopInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/ProcessWireInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/PuppetInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/PxcmsInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/RadPHPInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/ReIndexInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/Redaxo5Installer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/RedaxoInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/RoundcubeInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/SMFInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/ShopwareInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/SilverStripeInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/SiteDirectInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/StarbugInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/SyDESInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/SyliusInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/Symfony1Installer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/TYPO3CmsInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/TYPO3FlowInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/TaoInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/TastyIgniterInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/TheliaInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/TuskInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/UserFrostingInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/VanillaInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/VgmcpInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/WHMCSInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/WinterInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/WolfCMSInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/WordPressInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/YawikInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/ZendInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/Composer/Installers/ZikulaInstaller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/installers/src/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/vendor/composer/platform_check.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/voprosy-i-otvety/.section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/voprosy-i-otvety/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/.access.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/.bottom.menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/.section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/.top.menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/company/.left.menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/company/history.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/company/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/company/management.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/company/mission.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/company/vacancies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/contacts/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/include/bx_default_logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/include/company_name.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/include/copyright.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/include/motto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/include/news.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/include/random.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/login/.section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/login/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/news/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/products/.left.menu_ext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/products/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/search/.left.menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/search/.section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/search/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/search/map.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/services/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/wdwad/urlrewrite.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="07f98807-302f-4616-bda4-55e15d2e9d10" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="task/1-Интегрировать_верстку_сайта" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="Morfaz" />
+        <option name="repository" value="Bitrix" />
+      </RepoCoordinatesHolder>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Desktop/bootstrap-5.2.0-beta1-examples/product/index.html" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="29v56qLBlxpljRaRocXzVLOVaKe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "credentialsType com.jetbrains.php.remote.interpreter.ui.PhpCreateRemoteSdkForm": "SSH Configuration",
+    "credentialsType com.jetbrains.php.remote.interpreter.ui.PhpInplaceEditRemoteSdkForm": "SSH Configuration",
+    "last_opened_file_path": "C:/Users/Morfaz/Documents/bitrix",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "two.files.diff.last.used.file": "C:/Users/Morfaz/Documents/bitrix/index.php",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\bootstrap_exapmle_product\css" />
+      <recent name="C:\Users\Morfaz\Documents\bitrix" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\bootstraptemp\images" />
+      <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\bootstraptemp" />
+      <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\components\bitrix\menu" />
+      <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates" />
+      <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\bootstraptemp\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" host="Bitrix_praktika" port="8081" router_script="$PROJECT_DIR$/../../../../Windows/System32/drivers/etc/hosts" use_router_script="true">
+      <CommandLine parameters="-d short_open_tag=on -d display _errors=on -d mbstring.func_overload=2 -d mbstring.internal _encoding=utf-8 -d opcache.revalidate_freq=0 -d memory_limit=128M -d max_input_vars=10000 date_timezone=&quot;Europe/Moscow&quot; -d sendmail_path=&quot;/usr/sbin/sendmail -t -i -f noreply@noserver.ru&quot; " />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95d4de14-533f-4545-85cd-5180c71f6708" name="Changes" comment="" />
+      <created>1653980548056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653980548056</updated>
+      <workItem from="1653980550106" duration="2828000" />
+      <workItem from="1654450656956" duration="2184000" />
+      <workItem from="1654452978177" duration="3384000" />
+      <workItem from="1654525705106" duration="140000" />
+      <workItem from="1654525866125" duration="1201000" />
+      <workItem from="1654533000630" duration="3284000" />
+      <workItem from="1654536975868" duration="2678000" />
+      <workItem from="1654579357994" duration="1519000" />
+      <workItem from="1654582389857" duration="13703000" />
+      <workItem from="1654598150351" duration="776000" />
+      <workItem from="1654599068000" duration="6314000" />
+      <workItem from="1654607837020" duration="187000" />
+      <workItem from="1654608066439" duration="2239000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1654453576394</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654453576395</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Добавил шаблон">
+      <created>1654599539944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654599539944</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Добавил шаблон">
+      <created>1654599674073</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654599674073</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init">
+      <created>1654607924255</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654607924255</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init">
+      <created>1654610205991</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654610205991</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="task/1_Интегрировать_вертску_шапки" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="task/1_Интегрировать_вертску_шапки" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Добавил шаблон" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
