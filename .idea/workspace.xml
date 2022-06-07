@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95d4de14-533f-4545-85cd-5180c71f6708" name="Changes" comment="init">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="95d4de14-533f-4545-85cd-5180c71f6708" name="Changes" comment="Закончил 1 задание" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,6 +118,7 @@
       <workItem from="1654599068000" duration="6314000" />
       <workItem from="1654607837020" duration="187000" />
       <workItem from="1654608066439" duration="2437000" />
+      <workItem from="1654610900725" duration="344000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1654453576394</created>
@@ -165,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654610352612</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Закончил 1 задание">
+      <created>1654610953054</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654610953054</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +228,8 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Добавил шаблон" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="Закончил 1 задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Закончил 1 задание" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
