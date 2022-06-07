@@ -38,7 +38,7 @@ body{
     text-decoration: none;
 }
 .telephone{
-    font-size: 20px;
+    font-size: 18px;
     text-decoration: none;
     padding: 12px 10px 11px 10px;
     text-align: center;
@@ -47,7 +47,7 @@ body{
     color: #0c0c0c !important;
 }
 .telephone:hover{
-    background: #d9d9d9;;
+    background: #e8e8e8;;
     color: #0c0c0c;
 
 }
@@ -68,11 +68,11 @@ body{
 }
 .site-header .top-menu .top-menu-link.active
 {
-    color: #ff9e6d;
+    color: #868686;
 }
 
 .site-header .top-menu .top-menu-link:hover{
-    color: #7da636;
+    color: #d9732d;
 }
 /*
  * Dummy devices (replace them with your own or something else entirely!)
