@@ -48,6 +48,40 @@ return (new Builder)
         'TITLE'   => 'Email офиса 2',
         'DEFAULT' => 'about2@example.com',
         'WIDTH'   => '400',
-    ]);
+    ])
+
+    ->addPage('Мессенджеры')
+    ->addTab('Facebook')
+    ->addOption('Facebook', [
+        'TITLE'   => 'Ссылка на Facebook',
+        'DEFAULT' => 'https://www.facebook.com',
+        'WIDTH'   => '400',
+    ])
+    ->addTab('YouTube')
+    ->addOption('YouTube', [
+        'TITLE'   => 'Ссылка на YouTube',
+        'DEFAULT' => 'https://www.youtube.com',
+        'WIDTH'   => '400',
+    ])
+
+    ->addTab('Instagram')
+    ->addOption('Instagram', [
+        'TITLE'   => 'Ссылка на Instagram',
+        'DEFAULT' => 'https://www.instagram.com',
+        'WIDTH'   => '400',
+    ])
+
+    ->addTab('Telegram')
+    ->addOption('Telegram', [
+        'TITLE'   => 'Ссылка на Telegram',
+        'DEFAULT' => 'https://web.telegram.org',
+        'WIDTH'   => '400',
+    ])
+    ->addTab('Вконтакте')
+    ->addOption('Vk', [
+        'TITLE'   => 'Ссылка на Вконтакте',
+        'DEFAULT' => 'https://vk.com',
+        'WIDTH'   => '400',
+    ])
 
 ?>

@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95d4de14-533f-4545-85cd-5180c71f6708" name="Changes" comment="init">
-      <change beforePath="$PROJECT_DIR$/www/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.php" afterDir="false" />
+    <list default="true" id="95d4de14-533f-4545-85cd-5180c71f6708" name="Changes" comment="test commit">
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/images/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/images/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/images/telegram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/images/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/images/youtube.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/sprint.options.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/sprint.options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,11 +95,11 @@
       <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\bootstrap_exapmle_product\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Morfaz\Documents\bitrix\www\local\templates\BootstrapTemplate\images" />
       <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\bootstraptemp\images" />
       <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\bootstraptemp" />
       <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\components\bitrix\menu" />
       <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates" />
-      <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\bootstraptemp\js" />
     </key>
   </component>
   <component name="RunManager">
@@ -122,6 +130,7 @@
       <workItem from="1654607837020" duration="187000" />
       <workItem from="1654608066439" duration="2437000" />
       <workItem from="1654610900725" duration="731000" />
+      <workItem from="1654788229639" duration="6269000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1654453576394</created>
@@ -172,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654610953054</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="test commit">
+      <created>1654612326964</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654612326964</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +248,8 @@
     <MESSAGE value="Добавил шаблон" />
     <MESSAGE value="init" />
     <MESSAGE value="Закончил 1 задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="Закончил 1 задание" />
+    <MESSAGE value="test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
