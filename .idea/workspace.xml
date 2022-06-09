@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95d4de14-533f-4545-85cd-5180c71f6708" name="Changes" comment="test commit">
-      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/images/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/images/instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/images/telegram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/images/vk.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/images/youtube.svg" afterDir="false" />
+    <list default="true" id="95d4de14-533f-4545-85cd-5180c71f6708" name="Changes" comment="Сохранение 1">
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/lang/en/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/lang/ru/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/lang/ru/template.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/local/php_interface/sprint.options.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/sprint.options.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/footer.php" afterDir="false" />
@@ -66,40 +65,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
-    &quot;credentialsType com.jetbrains.php.remote.interpreter.ui.PhpCreateRemoteSdkForm&quot;: &quot;SSH Configuration&quot;,
-    &quot;credentialsType com.jetbrains.php.remote.interpreter.ui.PhpInplaceEditRemoteSdkForm&quot;: &quot;SSH Configuration&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Morfaz/Documents/bitrix&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/Morfaz/Documents/bitrix/index.php&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "credentialsType com.jetbrains.php.remote.interpreter.ui.PhpCreateRemoteSdkForm": "SSH Configuration",
+    "credentialsType com.jetbrains.php.remote.interpreter.ui.PhpInplaceEditRemoteSdkForm": "SSH Configuration",
+    "last_opened_file_path": "C:/Users/Morfaz/Documents/bitrix/www/local/templates/BootstrapTemplate/lang/en",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "web-ide.project.structure",
+    "two.files.diff.last.used.file": "C:/Users/Morfaz/Documents/bitrix/index.php",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Morfaz\Documents\bitrix\www\local\templates\BootstrapTemplate\lang\en" />
       <recent name="C:\Users\Morfaz\Documents\bitrix" />
       <recent name="C:\Users\Morfaz\Documents\bitrix\www" />
       <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\bootstrap_exapmle_product\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Morfaz\Documents\bitrix\www\local\templates\BootstrapTemplate\lang" />
+      <recent name="C:\Users\Morfaz\Documents\bitrix\www\local\templates\BootstrapTemplate" />
       <recent name="C:\Users\Morfaz\Documents\bitrix\www\local\templates\BootstrapTemplate\images" />
       <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\bootstraptemp\images" />
       <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\bootstraptemp" />
-      <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\components\bitrix\menu" />
-      <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates" />
     </key>
   </component>
   <component name="RunManager">
@@ -130,7 +130,8 @@
       <workItem from="1654607837020" duration="187000" />
       <workItem from="1654608066439" duration="2437000" />
       <workItem from="1654610900725" duration="731000" />
-      <workItem from="1654788229639" duration="6269000" />
+      <workItem from="1654788229639" duration="8715000" />
+      <workItem from="1654796986707" duration="1197000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1654453576394</created>
@@ -188,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654612326964</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Сохранение 1">
+      <created>1654794593906</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654794593906</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +257,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="Закончил 1 задание" />
     <MESSAGE value="test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+    <MESSAGE value="Сохранение 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сохранение 1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

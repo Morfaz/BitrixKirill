@@ -1,5 +1,6 @@
 <?php
 if (!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true) die();
+use \Bitrix\Main\Localization\Loc;
 ?>
 
 </main>
@@ -10,15 +11,15 @@ if (!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true) die();
     <div class="container">
         <div class="row align-items-start">
             <div class="col">
-                <h2>Контакты</h2>
+                <h2><?=Loc::GetMessage("title")?></h2>
             </div>
             <div class="col">
-                <p style="padding-bottom: 24px">г. Уфа, ул. Тестовая, д. 28, стр. 1, офис 205</p>
+                <p style="padding-bottom: 24px"><?=sprint_options_get('OFFICE')?></p>
             </div>
             <div class="col">
                 <div class="footer-item">
                     <div class="">
-                        <a href="tel:+79991234569" class="gray bt">+7 (999) 123-45-69</a><br>
+                        <a href="tel:<?=sprint_options_get('TEL')?>" class="gray bt"><?=sprint_options_get('TEL')?></a><br>
                     </div>
                 </div>
             </div>
@@ -27,12 +28,9 @@ if (!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true) die();
             <div class="col">
             </div>
             <div class="col">
-                <div class="footer-item__addr">
-                    <div class="">
-                        <p>Время работы офиса:</p>
-                        <p>Пн-пт с 10:00 до 19:00</p>
-                        <p>Время работы диспетчерской:</p>
-                        <p>с 9:00 до 21:00, без выходных</p><br><br>
+                <div class="footer-item__add">
+                    <div >
+                        <p><?=sprint_options_get('TIME')?></p>
                     </div>
                 </div>
             </div>
@@ -82,17 +80,17 @@ if (!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true) die();
         <div class="row align-items-end">
             <div class="col">
                 <div class="footer-item">
-                    <span class="gray">© <?=date("Y")?> ТКМ парк такси</span>
+                    <span class="gray">© <?=date("Y")?> <?=Loc::GetMessage("title1")?></span>
                 </div>
             </div>
             <div class="col">
                 <div class="">
-                    <a class="gray" id="privacy">Политика конфиденциальности</a>
+                    <a class="gray" id="privacy"><?=Loc::GetMessage("title2")?></a>
                 </div>
             </div>
             <div class="col">
                 <div class="footer-item">
-                    <a href="https://wptt.ru" target="_blank" class="gray">Разработка сайта — Вебпространство</a>
+                    <a href="https://wptt.ru" target="_blank" class="gray"><?=Loc::GetMessage("title3")?></a>
                 </div>
             </div>
         </div>

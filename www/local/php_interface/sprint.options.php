@@ -8,14 +8,15 @@ return (new Builder)
     ->setSort(60)
     ->addPage('Страница 1')
     ->addTab('О компании')
-    ->addOption('EMAIL', [
-        'TITLE'   => 'Email компании',
-        'DEFAULT' => 'about@example.com',
-        'WIDTH'   => '400',
-    ])
     ->addOption('OFFICE', [
         'TITLE'   => 'Адрес офиса',
-        'DEFAULT' => 'Адрес офиса',
+        'DEFAULT' => 'г. Уфа, ул. Тестовая, д. 28, стр. 1, офис 205',
+        'WIDTH'   => '600',
+        'HEIGHT'  => '100',
+    ])
+    ->addOption('TIME', [
+        'TITLE'   => 'Время работы',
+        'DEFAULT' => 'Время работы офиса:<br>Пн-пт с 10:00 до 19:00<br>Время работы диспетчерской:<br>с 9:00 до 21:00, без выходных<br><br><br><br>',
         'WIDTH'   => '600',
         'HEIGHT'  => '100',
     ])
