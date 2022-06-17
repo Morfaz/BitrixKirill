@@ -1,15 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95d4de14-533f-4545-85cd-5180c71f6708" name="Changes" comment="Сохранение 1">
-      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/lang/en/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/lang/en/template.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/lang/ru/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/lang/ru/template.php" afterDir="false" />
+    <list default="true" id="95d4de14-533f-4545-85cd-5180c71f6708" name="Changes" comment="Закончил задание 2">
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_icon_1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_icon_2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_icon_3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_icon_4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_icon_5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_icon_6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_icon_7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_smile_biggrin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_smile_confuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_smile_cool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_smile_cry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_smile_eek.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_smile_evil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_smile_exclaim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_smile_facepalm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_smile_idea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_smile_kiss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_smile_like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_smile_neutral.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_smile_question.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_smile_redface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_smile_sad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_smile_smile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/bx_smile_wink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/install.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/install_lang_br.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/install_lang_de.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/install_lang_en.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/install_lang_la.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/install_lang_ru.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/install_lang_sc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/install_lang_tc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.bx_temp/sitemanager/BXTEMP-2022-06-04/17/6z6i19zenwb5hh39aptp3cry970574n0/install_lang_ua.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/ajax/ajax.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/ajax/ajax.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/ajax/images/shadow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/ajax/images/wait.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/components/bitrix/system.pagenavigation/blog/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/components/bitrix/system.pagenavigation/blog/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/components/bitrix/system.pagenavigation/blog/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/components/bitrix/system.pagenavigation/forum/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/components/bitrix/system.pagenavigation/forum/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/components/bitrix/system.pagenavigation/forum/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/lang/en/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/lang/en/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/lang/en/page_templates/.content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/lang/ru/description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/lang/ru/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/lang/ru/page_templates/.content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/page_templates/.content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/page_templates/forum/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/page_templates/forum/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/page_templates/forum/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/.default/page_templates/standard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/components/bitrix/news.list/mainpage_top_slider/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/components/bitrix/news.list/mainpage_top_slider/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/img/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/img/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/img/telegram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/img/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/img/youtube.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/company/.left.menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/company/.left.menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/company/history.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/company/history.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/company/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/company/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/company/management.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/company/management.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/company/mission.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/company/mission.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/company/vacancies.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/company/vacancies.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/contacts/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/contacts/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/kontakty/.section.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/kontakty/.section.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/kontakty/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/kontakty/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/admin/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/admin/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/admin/sprint_options.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/admin/sprint_options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/include.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/include.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/install/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/install/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/install/version.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/install/version.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/builder/builder.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/builder/builder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/builder/option.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/builder/option.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/builder/page.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/builder/page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/builder/tab.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/builder/tab.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/locale.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/locale.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/module.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/lib/module.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/locale/ru.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/locale/ru.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/options.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/updater.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/modules/sprint.options/updater.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/local/php_interface/sprint.options.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/php_interface/sprint.options.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/lang/en/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/lang/en/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/lang/ru/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/lang/ru/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/nachat-rabotat/.section.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/nachat-rabotat/.section.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/nachat-rabotat/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/nachat-rabotat/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/raschet-zarplaty/.section.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/raschet-zarplaty/.section.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/raschet-zarplaty/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/raschet-zarplaty/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/services/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/services/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/site_ss/.access.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/site_ss/.access.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/tmp/installer.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/tmp/installer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/voprosy-i-otvety/.section.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/voprosy-i-otvety/.section.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/voprosy-i-otvety/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/voprosy-i-otvety/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/company/.left.menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/company/.left.menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/company/history.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/company/history.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/company/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/company/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/company/management.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/company/management.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/company/mission.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/company/mission.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/company/vacancies.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/company/vacancies.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/contacts/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/contacts/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/include/copyright.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/include/copyright.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/include/motto.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/include/motto.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/login/.section.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/login/.section.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/login/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/login/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/news/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/news/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/products/.left.menu_ext.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/products/.left.menu_ext.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/products/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/products/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/search/.left.menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/search/.left.menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/search/.section.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/search/.section.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/search/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/search/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/search/map.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/search/map.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/wdwad/services/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/wdwad/services/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +157,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="task/1-Интегрировать_верстку_сайта" />
+        <entry key="$PROJECT_DIR$" value="task/2-Интегрировать_верстку_футера" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,34 +189,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
-    "WebServerToolWindowPanel.toolwindow.show.date": "false",
-    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
-    "WebServerToolWindowPanel.toolwindow.show.size": "false",
-    "credentialsType com.jetbrains.php.remote.interpreter.ui.PhpCreateRemoteSdkForm": "SSH Configuration",
-    "credentialsType com.jetbrains.php.remote.interpreter.ui.PhpInplaceEditRemoteSdkForm": "SSH Configuration",
-    "last_opened_file_path": "C:/Users/Morfaz/Documents/bitrix/www/local/templates/BootstrapTemplate/lang/en",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "web-ide.project.structure",
-    "two.files.diff.last.used.file": "C:/Users/Morfaz/Documents/bitrix/index.php",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;credentialsType com.jetbrains.php.remote.interpreter.ui.PhpCreateRemoteSdkForm&quot;: &quot;SSH Configuration&quot;,
+    &quot;credentialsType com.jetbrains.php.remote.interpreter.ui.PhpInplaceEditRemoteSdkForm&quot;: &quot;SSH Configuration&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Morfaz/Documents/bitrix&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;web-ide.project.structure&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/Morfaz/Documents/bitrix/index.php&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Morfaz\Documents\bitrix\www\local\templates\BootstrapTemplate\lang\en" />
       <recent name="C:\Users\Morfaz\Documents\bitrix" />
+      <recent name="C:\Users\Morfaz\Documents\bitrix\www\local\templates" />
+      <recent name="C:\Users\Morfaz\Documents\bitrix\www\local\templates\BootstrapTemplate\components\bitrix" />
+      <recent name="C:\Users\Morfaz\Documents\bitrix\www\local\templates\BootstrapTemplate\lang\en" />
       <recent name="C:\Users\Morfaz\Documents\bitrix\www" />
-      <recent name="C:\Users\Morfaz\Documents\bitrix\local\templates\bootstrap_exapmle_product\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Morfaz\Documents\bitrix\www\local\templates\BootstrapTemplate\lang" />
@@ -131,7 +256,8 @@
       <workItem from="1654608066439" duration="2437000" />
       <workItem from="1654610900725" duration="731000" />
       <workItem from="1654788229639" duration="8715000" />
-      <workItem from="1654796986707" duration="1197000" />
+      <workItem from="1654796986707" duration="1403000" />
+      <workItem from="1655201040319" duration="5948000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1654453576394</created>
@@ -196,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654794593906</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Закончил задание 2">
+      <created>1654798276729</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654798276729</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,7 +391,8 @@
     <MESSAGE value="Закончил 1 задание" />
     <MESSAGE value="test commit" />
     <MESSAGE value="Сохранение 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сохранение 1" />
+    <MESSAGE value="Закончил задание 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Закончил задание 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

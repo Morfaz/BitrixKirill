@@ -6,92 +6,52 @@ use \Bitrix\Main\Localization\Loc;
 </main>
 
 <footer>
-    <div class="footer-anchor" id="footer"></div>
-    <!--  desktop-->
-    <div class="container">
-        <div class="row align-items-start">
-            <div class="col">
-                <h2><?=Loc::GetMessage("title")?></h2>
+    <div class="container footer">
+        <div class="row">
+            <div class="col-6 col-md-4">
+                <h2><?=Loc::getMessage('TITLE')?></h2>
             </div>
-            <div class="col">
-                <p style="padding-bottom: 24px"><?=sprint_options_get('OFFICE')?></p>
+            <div class="col-6 col-md-5">
+                <p class="company-info-footer"><?=sprint_options_get('OFFICE')?></p>
             </div>
-            <div class="col">
-                <div class="footer-item">
-                    <div class="">
-                        <a href="tel:<?=sprint_options_get('TEL')?>" class="gray bt"><?=sprint_options_get('TEL')?></a><br>
-                    </div>
-                </div>
+            <div class="col-6 col-md-3">
+                <p class="company-info-footer"><a href="tel:<?=sprint_options_get('TEL')?>"><?=sprint_options_get('TEL')?></a></p>
             </div>
         </div>
-        <div class="row align-items-start">
-            <div class="col">
+        <div class="row">
+            <div class="col-6 col-md-4">
+
             </div>
-            <div class="col">
-                <div class="footer-item__add">
-                    <div >
-                        <p><?=sprint_options_get('TIME')?></p>
-                    </div>
-                </div>
+            <div class="col-6 col-md-5">
+                <p class="company-info-footer"><?=sprint_options_get('TIME')?></p>
             </div>
-            <div class="col">
-                <div class="footer-item">
-                    <div class="">
-                        <a href="<?=sprint_options_get('Facebook')?>" target="_blank">
-                            <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M40.5 0H7.5C3.35786 0 0 3.35786 0 7.5V40.5C0 44.6421 3.35786 48 7.5 48H40.5C44.6421 48 48 44.6421 48 40.5V7.5C48 3.35786 44.6421 0 40.5 0Z" fill="#1877F2"/>
-                                <path d="M36 24C36 17.4 30.6 12 24 12C17.4 12 12 17.4 12 24C12 30 16.35 34.95 22.05 35.85V27.45H19.05V24H22.05V21.3C22.05 18.3 23.85 16.65 26.55 16.65C27.9 16.65 29.25 16.95 29.25 16.95V19.95H27.75C26.25 19.95 25.8 20.85 25.8 21.75V24H29.1L28.5 27.45H25.65V36C31.65 35.1 36 30 36 24Z" fill="white"/>
-                            </svg>
-
-                        </a>
-                        <a href="<?=sprint_options_get('YouTube')?>" target="_blank">
-                            <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M40.5 0H7.5C3.35786 0 0 3.35786 0 7.5V40.5C0 44.6421 3.35786 48 7.5 48H40.5C44.6421 48 48 44.6421 48 40.5V7.5C48 3.35786 44.6421 0 40.5 0Z" fill="#FF0000"/>
-                                <path d="M35.4 18.1501C35.1 17.1001 34.35 16.3501 33.3 16.0501C31.5 15.6001 23.85 15.6001 23.85 15.6001C23.85 15.6001 16.35 15.6001 14.4 16.0501C13.35 16.3501 12.6 17.1001 12.3 18.1501C12 20.1001 12 24.0001 12 24.0001C12 24.0001 12 27.9001 12.45 29.8501C12.75 30.9001 13.5 31.6501 14.55 31.9501C16.35 32.4001 24 32.4001 24 32.4001C24 32.4001 31.5 32.4001 33.45 31.9501C34.5 31.6501 35.25 30.9001 35.55 29.8501C36 27.9001 36 24.0001 36 24.0001C36 24.0001 36 20.1001 35.4 18.1501ZM21.6 27.6001V20.4001L27.9 24.0001L21.6 27.6001Z" fill="white"/>
-                            </svg>
-
-                        </a>
-                        <a href="<?=sprint_options_get('Instagram')?>" target="_blank">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="none" viewBox="0 0 48 48">
-                                <path fill="#F00073" d="M40.5 0h-33A7.5 7.5 0 000 7.5v33A7.5 7.5 0 007.5 48h33a7.5 7.5 0 007.5-7.5v-33A7.5 7.5 0 0040.5 0z"/>
-                                <path fill="#fff" d="M24 13.8h5.1c1.2 0 1.8.3 2.25.45.6.3 1.05.45 1.5.9.45.45.75.9.9 1.5.15.45.3 1.05.45 2.25v10.2c0 1.2-.3 1.8-.45 2.25-.3.6-.45 1.05-.9 1.5-.45.45-.9.75-1.5.9-.45.15-1.05.3-2.25.45H18.9c-1.2 0-1.8-.3-2.25-.45-.6-.3-1.05-.45-1.5-.9-.45-.45-.75-.9-.9-1.5-.15-.45-.3-1.05-.45-2.25V24v-5.1c0-1.2.3-1.8.45-2.25.3-.6.45-1.05.9-1.5.45-.45.9-.75 1.5-.9.45-.15 1.05-.3 2.25-.45H24zm0-2.25h-5.1c-1.35 0-2.25.3-3 .6s-1.5.75-2.25 1.5-1.05 1.35-1.5 2.25c-.3.75-.45 1.65-.6 3v10.2c0 1.35.3 2.25.6 3s.75 1.5 1.5 2.25 1.35 1.05 2.25 1.5c.75.3 1.65.45 3 .6h10.2c1.35 0 2.25-.3 3-.6s1.5-.75 2.25-1.5 1.05-1.35 1.5-2.25c.3-.75.45-1.65.6-3V24v-5.1c0-1.35-.3-2.25-.6-3s-.75-1.5-1.5-2.25-1.35-1.05-2.25-1.5c-.75-.3-1.65-.45-3-.6H24z"/>
-                                <path fill="#fff" d="M24 17.55c-3.6 0-6.45 2.85-6.45 6.45s2.85 6.45 6.45 6.45 6.45-2.85 6.45-6.45-2.85-6.45-6.45-6.45zm0 10.65c-2.25 0-4.2-1.8-4.2-4.2 0-2.25 1.8-4.2 4.2-4.2 2.25 0 4.2 1.8 4.2 4.2 0 2.25-1.95 4.2-4.2 4.2zM30.6 18.9a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                            </svg>
-
-                        </a>
-                        <a href="<?=sprint_options_get('Telegram')?>" target="_blank">
-                            <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M40.5 0H7.5C3.35786 0 0 3.35786 0 7.5V40.5C0 44.6421 3.35786 48 7.5 48H40.5C44.6421 48 48 44.6421 48 40.5V7.5C48 3.35786 44.6421 0 40.5 0Z" fill="#0088CC"/>
-                                <path d="M12.1499 23.5624C18.5923 20.7556 22.8883 18.9051 25.0378 18.0111C31.175 15.4584 32.4503 15.0149 33.2815 15.0001C33.4643 14.9971 33.8731 15.0424 34.1379 15.2572C34.3614 15.4386 34.4229 15.6837 34.4524 15.8557C34.4818 16.0277 34.5185 16.4195 34.4893 16.7257C34.1567 20.2201 32.7177 28.7002 31.9856 32.6141C31.6758 34.2702 31.0658 34.8254 30.4753 34.8798C29.1919 34.9979 28.2174 34.0317 26.9744 33.2169C25.0294 31.9419 23.9305 31.1482 22.0425 29.904C19.8606 28.4662 21.2751 27.6759 22.5185 26.3844C22.844 26.0464 28.4985 20.9032 28.6079 20.4366C28.6216 20.3783 28.6343 20.1608 28.5051 20.0459C28.3759 19.9311 28.1851 19.9703 28.0475 20.0016C27.8524 20.0458 24.7452 22.0996 18.7258 26.1628C17.8439 26.7685 17.045 27.0636 16.3292 27.0481C15.5402 27.031 14.0223 26.6019 12.894 26.2352C11.51 25.7853 10.41 25.5474 10.5058 24.7834C10.5557 24.3854 11.1037 23.9785 12.1499 23.5624Z" fill="white"/>
-                            </svg>
-
-                        </a>
-                        <a href="<?=sprint_options_get('Vk')?>" target="_blank">
-                            <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M0 7.5C0 3.35786 3.35786 0 7.5 0H40.5C44.6421 0 48 3.35786 48 7.5V40.5C48 44.6421 44.6421 48 40.5 48H7.5C3.35786 48 0 44.6421 0 40.5V7.5Z" fill="#2787F5"/>
-                                <path d="M12 23.5C12 18.0788 12 15.3683 13.6841 13.6841C15.3683 12 18.0788 12 23.5 12H24.5C29.9212 12 32.6318 12 34.3158 13.6841C36 15.3683 36 18.0788 36 23.5V24.5C36 29.9212 36 32.6318 34.3158 34.3158C32.6318 36 29.9212 36 24.5 36H23.5C18.0788 36 15.3683 36 13.6841 34.3158C12 32.6318 12 29.9212 12 24.5L12 23.5Z" fill="#2787F5"/>
-                                <path fill-rule="evenodd" clip-rule="evenodd" d="M18.499 19.5H16.7486C16.2485 19.5 16.1484 19.7354 16.1484 19.9949C16.1484 20.4585 16.7419 22.7574 18.9115 25.7979C20.358 27.8744 22.3959 29 24.2503 29C25.363 29 25.5006 28.75 25.5006 28.3194V26.75C25.5006 26.25 25.606 26.1502 25.9583 26.1502C26.218 26.1502 26.663 26.28 27.7015 27.2811C28.8884 28.4677 29.084 29 29.7516 29H31.502C32.0021 29 32.2522 28.75 32.1079 28.2567C31.9501 27.765 31.3834 27.0515 30.6315 26.2058C30.2235 25.7238 29.6116 25.2047 29.4261 24.9451C29.1665 24.6114 29.2407 24.463 29.4261 24.1664C29.4261 24.1664 31.5587 21.163 31.7813 20.1433C31.8925 19.7725 31.7813 19.5 31.2519 19.5H29.5015C29.0565 19.5 28.8513 19.7354 28.74 19.9949C28.74 19.9949 27.8499 22.1641 26.5889 23.5731C26.1809 23.981 25.9954 24.1108 25.7729 24.1108C25.6616 24.1108 25.5006 23.981 25.5006 23.6103V20.1433C25.5006 19.6983 25.3714 19.5 25.0005 19.5H22.2498C21.9717 19.5 21.8044 19.7065 21.8044 19.9022C21.8044 20.324 22.4349 20.4213 22.4999 21.6079V24.185C22.4999 24.75 22.3978 24.8525 22.1753 24.8525C21.5819 24.8525 20.1385 22.6736 19.2824 20.1804C19.1146 19.6958 18.9463 19.5 18.499 19.5Z" fill="white"/>
-                            </svg>
-                        </a>
-                    </div>
-                </div>
+            <div class="col-6 col-md-3 messenger">
+                <a href="<?=sprint_options_get('facebook')?>">
+                    <img src="<?=SITE_TEMPLATE_PATH . '/img/facebook.svg'?>">
+                </a>
+                <a href="<?=sprint_options_get('youtube')?>">
+                    <img src="<?=SITE_TEMPLATE_PATH . '/img/youtube.svg'?>">
+                </a>
+                <a href="<?=sprint_options_get('instagram')?>">
+                    <img src="<?=SITE_TEMPLATE_PATH . '/img/instagram.svg'?>">
+                </a>
+                <a href="<?=sprint_options_get('telegram')?>">
+                    <img src="<?=SITE_TEMPLATE_PATH . '/img/telegram.svg'?>">
+                </a>
+                <a href="<?=sprint_options_get('vk')?>">
+                    <img src="<?=SITE_TEMPLATE_PATH . '/img/vk.svg'?>">
+                </a>
             </div>
         </div>
-        <div class="row align-items-end">
-            <div class="col">
-                <div class="footer-item">
-                    <span class="gray">© <?=date("Y")?> <?=Loc::GetMessage("title1")?></span>
-                </div>
+        <div class="row" style="margin-top:3rem">
+            <div class="col-6 col-md-4">
+                <p class="company-info-footer">© <?=date("Y")?>  ТКМ парк такси</p>
             </div>
-            <div class="col">
-                <div class="">
-                    <a class="gray" id="privacy"><?=Loc::GetMessage("title2")?></a>
-                </div>
+            <div class="col-6 col-md-5">
+                <a href="#"><?=Loc::getMessage('PRIVACY')?></a>
             </div>
-            <div class="col">
-                <div class="footer-item">
-                    <a href="https://wptt.ru" target="_blank" class="gray"><?=Loc::GetMessage("title3")?></a>
-                </div>
+            <div class="col-6 col-md-3">
+                <a href="#"><?=Loc::getMessage('WEBPLACE')?></a>
             </div>
         </div>
     </div>
