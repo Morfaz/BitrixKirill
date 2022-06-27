@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95d4de14-533f-4545-85cd-5180c71f6708" name="Changes" comment="Задание 3 Слайдер">
-      <change beforePath="$PROJECT_DIR$/.idea/bitrix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bitrix.iml" afterDir="false" />
+    <list default="true" id="95d4de14-533f-4545-85cd-5180c71f6708" name="Changes" comment="Задание 4 О таксопарке">
+      <change afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/components/bitrix/system.pagenavigation/Knopki/template.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/.top.menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/.top.menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/about/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/about/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/components/bitrix/news.list/about_taxi/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/components/bitrix/news.list/about_taxi/template.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/components/bitrix/news.list/mainpage_top_slider/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/components/bitrix/news.list/mainpage_top_slider/template.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/local/templates/BootstrapTemplate/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/nachat-rabotat/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/nachat-rabotat/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/urlrewrite.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/urlrewrite.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,7 @@
     &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
     &quot;credentialsType com.jetbrains.php.remote.interpreter.ui.PhpCreateRemoteSdkForm&quot;: &quot;SSH Configuration&quot;,
     &quot;credentialsType com.jetbrains.php.remote.interpreter.ui.PhpInplaceEditRemoteSdkForm&quot;: &quot;SSH Configuration&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Morfaz/Documents/bitrix&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Morfaz/Documents/bitrix/www/local/templates/BootstrapTemplate/components/bitrix/system.pagenavigation/Knopki&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;web-ide.project.structure&quot;,
@@ -86,11 +86,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Morfaz\Documents\bitrix\www\local\templates\BootstrapTemplate\components\bitrix\system.pagenavigation\Knopki" />
       <recent name="C:\Users\Morfaz\Documents\bitrix" />
       <recent name="C:\Users\Morfaz\Documents\bitrix\www\local\templates" />
       <recent name="C:\Users\Morfaz\Documents\bitrix\www\local\templates\BootstrapTemplate\components\bitrix" />
       <recent name="C:\Users\Morfaz\Documents\bitrix\www\local\templates\BootstrapTemplate\lang\en" />
-      <recent name="C:\Users\Morfaz\Documents\bitrix\www" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Morfaz\Documents\bitrix\www\local\templates\BootstrapTemplate\lang" />
@@ -132,7 +132,10 @@
       <workItem from="1654796986707" duration="1403000" />
       <workItem from="1655201040319" duration="5948000" />
       <workItem from="1655444331240" duration="696000" />
-      <workItem from="1655445048541" duration="930000" />
+      <workItem from="1655445048541" duration="2383000" />
+      <workItem from="1655447570570" duration="869000" />
+      <workItem from="1655971574062" duration="309000" />
+      <workItem from="1656048556811" duration="2197000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1654453576394</created>
@@ -211,7 +214,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655444539869</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Задание 4 О таксопарке">
+      <created>1655446101496</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1655446101496</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Задание 4 О таксопарке">
+      <created>1655446251136</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1655446251136</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,7 +292,8 @@
     <MESSAGE value="Сохранение 1" />
     <MESSAGE value="Закончил задание 2" />
     <MESSAGE value="Задание 3 Слайдер" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 3 Слайдер" />
+    <MESSAGE value="Задание 4 О таксопарке" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 4 О таксопарке" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

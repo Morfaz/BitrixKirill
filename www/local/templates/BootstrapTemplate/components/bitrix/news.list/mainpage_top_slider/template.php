@@ -31,11 +31,11 @@ $this->setFrameMode(true);
 
             <button class="carousel-control-prev" style="left:-35px" type="button" data-bs-target="#mainPageCarousel"  data-bs-slide="prev">
                 <span class="carousel-control-prev-icon carousel-arrow"   aria-hidden="true"></span>
-                <span class="visually-hidden">Предыдущий</span>
+                <span class="visually-hidden">Назад</span>
             </button>
             <button class="carousel-control-next" style="right:-35px" type="button" data-bs-target="#mainPageCarousel"  data-bs-slide="next">
                 <span class="carousel-control-next-icon carousel-arrow" aria-hidden="true"></span>
-                <span class="visually-hidden">Следующий</span>
+                <span class="visually-hidden">Вперед</span>
             </button>
         </div>
     </div>
